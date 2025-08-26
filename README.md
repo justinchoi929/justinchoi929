@@ -8,7 +8,7 @@
 
 <!--   my-header-img -->
 
-<img src="/src/aya.png" alt="aya.png"/>
+<!-- img src="/src/aya.png" alt="aya.png"/ -->
 
 <!--   my-ticker -->    
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello+👋;+欢迎来到我的主页!;Always+learning+new+things+;Machine+learning+enthusiast+)
